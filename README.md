@@ -1,1 +1,2 @@
-https://uithcm-my.sharepoint.com/personal/22520644_ms_uit_edu_vn/Documents/ontap_thuchanh.pdf
+[ontap_thuchanh.pdf](https://github.com/nguyenmaikhanh/oop/files/11714307/ontap_thuchanh.pdf)
+
